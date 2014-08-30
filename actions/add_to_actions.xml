@@ -1,0 +1,3 @@
+<!-- Smoke -->
+<action itemid="7494" event="script" value="smoke/water.lua"/>
+<action itemid="7499" event="script" value="smoke/smoke.lua"/>
